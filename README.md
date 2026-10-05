@@ -184,7 +184,7 @@ Built for the **Lenovo LEAP Generative AI & Agentic Systems Engineering Internsh
 ## Author
 
 **Niyati Rai**
-B.Tech, Electronics & Telecommunication
+B.Tech, Information Technology
 AISSMS Institute of Information Technology, Pune
 
 I'm interested in AI, generative AI, agentic systems, software development and ed-tech.
